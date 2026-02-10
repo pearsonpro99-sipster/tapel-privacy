@@ -97,7 +97,7 @@ This Privacy Policy may be updated from time to time. Any changes will be posted
 
 If you have questions about this Privacy Policy, you can contact us at:
 
-**Email:** support@tapel.app
+**Email:** bpsipandship@gmail.com
 
 ---
 
