@@ -1,104 +1,76 @@
-# Privacy Policy for Tapel
+Privacy Policy for Tapel
+Last updated: April 7, 2026
 
-**Last updated:** February 10, 2026
+Tapel ("we", "our", "the app") is a padel and tennis scoring app for Apple Watch and iPhone. We respect your privacy and are committed to being transparent about the data we collect, why we collect it, and how it is used.
 
-Tapel (“we”, “our”, or “the app”) respects your privacy. This Privacy Policy explains how information is collected and used when you use the Tapel mobile application.
+**1. Information We Collect
+**
+1.1 Account Information
+When you sign in using Sign in with Apple, we receive and store:
 
----
+Email address — provided by Apple (you may choose to use Apple's private relay email)
+Full name — only if you choose to share it during sign-in
+Apple user identifier — a unique, anonymous ID assigned by Apple for your account
+This information is used solely to create and manage your Tapel account.
 
-## Information We Collect
+1.2 Match Data
+Match scores, duration, calories, and related data are recorded on your Apple Watch during gameplay and synced to the iPhone app. This data is only stored locally on your device.
 
-Tapel does not require users to create an account, sign in, or provide personal information.
+1.3 Analytics Data
+We collect anonymous, non-personally-identifiable usage analytics to understand how the app is used and to improve the experience. This includes:
 
-**We do not collect:**
-- Names
-- Email addresses
-- Phone numbers
-- Payment information
-- Contact lists
-- Precise location data
+App opens, tab views, and feature interactions
+Session duration
+Device model and operating system version
+App version
+Analytics data is collected via Mixpanel and cannot be used to identify you personally. 
+We also receive aggregated, anonymous data through Apple's App Store analytics (installations, crashes, and performance metrics).
 
----
+**2. How We Use Your Information
+Data	Purpose
+Email address & name	Account creation and identification; future product communications (with your consent)
+Apple user identifier	Authenticating your account securely
+Match data	Displaying your match history and statistics within the app
+Analytics data	Monitoring app performance, understanding feature usage, improving the app experience
+We do not use your data for advertising, behavioural profiling, or selling to third parties.
 
-## Analytics and Usage Data
+4. Third-Party Services
+We use the following third-party services to operate Tapel:
 
-### Google Analytics 4 (GA4)
+Service	Purpose	Data shared
+Supabase	User authentication and account storage	Email, name, Apple user ID
+Mixpanel	Anonymous product analytics	Anonymous device and usage events (no personal data)
+Apple (Sign in with Apple)	Secure authentication	Authentication tokens
+Each service processes data in accordance with their own privacy policies. We do not share your personal data with any other third parties.
 
-Tapel uses Google Analytics 4 to collect anonymous, aggregated usage data such as:
-- App interactions and events
-- Feature usage
-- Session duration
-- Number of sign-ups or completed actions (aggregated)
-- General device and app version information
+**4. Data Storage and Security
+**
+Account data (email, name) is stored securely in Supabase, which uses encryption at rest and in transit.
+Match data is stored locally on your iPhone and is not transmitted to any server.
+Analytics data is processed by Mixpanel and does not contain personally identifiable information.
+5. Data Retention
+Account data is retained for as long as your account exists. If you request deletion, we will remove your data within 30 days.
+Match data is stored on your device only. Deleting the app removes this data.
+Analytics data is retained by Mixpanel in accordance with their data retention policies.
+6. Your Rights (GDPR & UK GDPR)
+If you are located in the European Economic Area (EEA) or the United Kingdom, you have the following rights regarding your personal data:
 
-This data cannot be used to personally identify users.  
-Google’s privacy practices are described at:  
-https://policies.google.com/privacy
+Right of access — request a copy of the data we hold about you
+Right to rectification — request correction of inaccurate data
+Right to erasure — request deletion of your account and associated data
+Right to data portability — receive your data in a machine-readable format
+Right to object — object to processing of your data for specific purposes
+Right to withdraw consent — withdraw consent at any time where processing is based on consent
+To exercise any of these rights, please contact us at bpsipandship@gmail.com. We will respond within 30 days.
 
-### Apple App Store Analytics
+**7. Marketing Communications
+**We do not currently send marketing emails. In the future, we may use your email address to send product updates or new feature announcements. If we do, you will always be able to opt out, and we will never send marketing without your prior consent where required by law.
 
-Tapel also uses Apple’s standard App Store analytics, which provide aggregated insights such as:
-- App installs and deletions
-- App performance and stability
-- General usage statistics
+**8. Children's Privacy
+**Tapel is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal data, please contact us and we will delete it promptly.
 
----
+**9. Changes to This Policy
+**We may update this privacy policy from time to time. Any changes will be posted on this page with an updated "Last updated" date. We encourage you to review this page periodically.
 
-## How We Use Information
-
-Analytics data is used only to:
-- Monitor app performance
-- Understand feature usage
-- Improve the app experience
-- Fix bugs and optimize functionality
-
-Tapel does not use data for advertising, marketing, or user profiling.
-
----
-
-## Data Sharing
-
-Tapel does not sell, rent, or share personal data with third parties, except for:
-- Google Analytics 4
-- Apple App Store analytics services
-
-No data is shared for advertising or cross-app tracking purposes.
-
----
-
-## Data Retention
-
-Analytics data is retained according to the default retention policies of Google Analytics and Apple.  
-Tapel does not maintain its own database of personal user data.
-
----
-
-## Children’s Privacy
-
-Tapel does not knowingly collect personal information from children under the age of 13.
-
----
-
-## Your Privacy Choices
-
-Because Tapel does not collect personal data or require accounts, there are no personal records to access, modify, or delete.
-
-Users may control analytics permissions through their device and system privacy settings.
-
----
-
-## Changes to This Policy
-
-This Privacy Policy may be updated from time to time. Any changes will be posted on this page with an updated “Last updated” date.
-
----
-
-## Contact
-
-If you have questions about this Privacy Policy, you can contact us at:
-
-**Email:** bpsipandship@gmail.com
-
----
-
-© 2026 Tapel
+10. Contact Us
+If you have any questions about this privacy policy, your data, or wish to exercise your rights, please contact: bpsipandship@gmail.com
