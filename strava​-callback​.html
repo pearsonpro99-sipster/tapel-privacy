@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><title>Tapel – Strava</title></head>
+<body>
+<p>Redirecting to Tapel…</p>
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const code = params.get('code');
+  const scope = params.get('scope') || '';
+  if (code) {
+    window.location.href = 'tapel://strava-callback?code=' + encodeURIComponent(code) + '&scope=' + encodeURIComponent(scope);
+  } else {
+    document.body.innerText = 'Authorization failed — no code received.';
+  }
+</script>
+</body>
+</html>
