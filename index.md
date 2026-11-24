@@ -1,6 +1,6 @@
 # Privacy Policy for Tapel
 
-**Last updated:** 14th October 2026
+**Last updated:** 23rd November 2026
 
 Tapel ("we", "our", "the app") is a padel and tennis scoring app for Apple Watch and iPhone. We respect your privacy and are committed to being transparent about the data we collect, why we collect it, and how it is used.
 
@@ -10,11 +10,11 @@ For any questions about this policy, your data, or to exercise your rights, plea
 
 ### 1.1 Account Information
 
-When you sign in using Sign in with Apple, we receive and store:
+When you sign in using Sign in with Apple or Sign in with Google, we receive and store:
 
-- **Email address** — provided by Apple (you may choose to use Apple's private relay email)
-- **Full name** — only if you choose to share it during sign-in
-- **Apple user identifier** — a unique, anonymous ID assigned by Apple for your account
+- **Email address** — provided by Apple (you may choose to use Apple's private relay email) or Google
+- **Full name** — only if you choose to share it during sign-in (Apple), or from your Google profile
+- **Apple user identifier or Google user identifier** — a unique, anonymous ID assigned by the provider for your account
 
 This information is used solely to create and manage your Tapel account.
 
@@ -28,6 +28,7 @@ After signing in, we ask you to complete a profile. The following information is
 - **Gender** — optional
 - **Local padel club** — free-text entry
 - **Home nation** — for UK users only (England, Scotland, Wales, or Northern Ireland)
+- **County / Region** — optional free-text entry
 - **Favourite padel brands** — selected from a predefined list
 - **Favourite non-padel brand** — optional free-text entry
 - **Matches played per week** — selected from a predefined range
@@ -74,7 +75,7 @@ We also receive aggregated, anonymous data through Apple's App Store analytics (
 ## 2. How We Use Your Information
 
 - **Email address and name:** account creation and identification; future product communications (with your consent)
-- **Apple user identifier:** authenticating your account securely
+- **Apple or Google user identifier:** authenticating your account securely
 - **Profile information:** personalising your experience; understanding our user demographics and commercial audience insights
 - **Date of birth:** age verification (13+ minimum)
 - **Match data:** displaying your match history and statistics; publishing to Strava if you have enabled this
@@ -88,9 +89,10 @@ We do not use your data for advertising, behavioural profiling, or selling to th
 
 We use the following third-party services to operate Tapel:
 
-- **Supabase:** user authentication, account storage, profile storage, and match history. Data shared: email, name, date of birth, gender, club, region, country, brand preferences, matches per week, Apple user ID, match results.
+- **Supabase:** user authentication, account storage, profile storage, and match history. Data shared: email, name, date of birth, gender, club, region, country, brand preferences, matches per week, Apple or Google user ID, match results.
 - **Mixpanel:** pseudonymous product analytics. Data shared: random device identifier, device model, OS version, app version, feature interaction events. No names, emails, or health data.
 - **Apple (Sign in with Apple):** secure authentication. Data shared: authentication tokens.
+- **Google (Sign in with Google):** secure authentication. Data shared: authentication tokens, profile name, and email address.
 - **Apple HealthKit:** recording workout sessions during matches. Data shared: active calories and heart rate (read); workout sessions (written to Health app). Calorie count shared with Strava if connected. Never sent to our servers or analytics.
 - **Strava (optional):** publishing match activities to your Strava profile. Data shared: match score, start time, duration, calories.
 
@@ -98,7 +100,7 @@ Each service processes data in accordance with their own privacy policies. The S
 
 ## 4. International Data Transfers
 
-Supabase processes data in the EU region. Mixpanel processes analytics data in the EU (api-eu.mixpanel.com). Strava is based in the United States. Where your data is processed outside the United Kingdom, appropriate safeguards are in place in accordance with UK GDPR requirements.
+Supabase processes data in the EU region. Mixpanel processes analytics data in the EU (api-eu.mixpanel.com). Strava is based in the United States. Google processes authentication data in accordance with their privacy policy and may transfer data internationally. Where your data is processed outside the United Kingdom, appropriate safeguards are in place in accordance with UK GDPR requirements.
 
 ## 5. Data Storage and Security
 
@@ -146,7 +148,7 @@ We do not currently send marketing emails. In the future, we may use your email 
 
 ## 10. Children's Privacy
 
-Tapel is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. We enforce a minimum age of 13 during profile creation via a date of birth check. If you believe a child under 13 has provided us with personal data, please contact us and we will delete it promptly.
+Tapel is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. We enforce a minimum age of 13 during account creation via an age confirmation checkbox on the sign-in screen and a date of birth check during profile creation. If you believe a child under 13 has provided us with personal data, please contact us and we will delete it promptly.
 
 ## 11. Changes to This Policy
 
